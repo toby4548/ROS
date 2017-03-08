@@ -1,0 +1,8 @@
+prefix=/home/toby4548/catkin_ws/install
+
+Name: fake_ar_publisher
+Description: Description of fake_ar_publisher
+Version: 0.0.0
+Cflags: -I/home/toby4548/catkin_ws/install/include
+Libs: -L/home/toby4548/catkin_ws/install/lib 
+Requires: roscpp std_msgs visualization_msgs

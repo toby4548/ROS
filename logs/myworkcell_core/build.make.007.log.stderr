@@ -1,0 +1,10 @@
+/home/toby4548/catkin_ws/src/myworkcell_core/src/vision_node.cpp: In function ‘int main(int, char**)’:
+/home/toby4548/catkin_ws/src/myworkcell_core/src/vision_node.cpp:42:1: error: a function-definition is not allowed here before ‘{’ token
+ {
+ ^
+/home/toby4548/catkin_ws/src/myworkcell_core/src/vision_node.cpp:51:1: error: expected ‘}’ at end of input
+ }
+ ^
+make[2]: *** [CMakeFiles/vision_node.dir/src/vision_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/vision_node.dir/all] Error 2
+make: *** [all] Error 2

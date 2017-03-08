@@ -1,0 +1,1 @@
+/home/toby4548/catkin_ws/devel/.private/fake_ar_publisher/lib/pkgconfig/fake_ar_publisher.pc

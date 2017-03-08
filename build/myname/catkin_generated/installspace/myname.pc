@@ -1,0 +1,8 @@
+prefix=/home/toby4548/catkin_ws/install
+
+Name: myname
+Description: Description of myname
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/toby4548/catkin_ws/install/lib 
+Requires: 

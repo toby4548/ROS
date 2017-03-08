@@ -1,0 +1,10 @@
+/home/toby4548/catkin_ws/src/myworkcell_core/src/vision_node.cpp: In function ‘int main(int, char**)’:
+/home/toby4548/catkin_ws/src/myworkcell_core/src/vision_node.cpp:21:5: error: ‘Localizer’ was not declared in this scope
+     Localizer localizer(nh);
+     ^
+/home/toby4548/catkin_ws/src/myworkcell_core/src/vision_node.cpp:21:15: error: expected ‘;’ before ‘localizer’
+     Localizer localizer(nh);
+               ^
+make[2]: *** [CMakeFiles/vision_node.dir/src/vision_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/vision_node.dir/all] Error 2
+make: *** [all] Error 2
